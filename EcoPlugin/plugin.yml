@@ -1,0 +1,16 @@
+name: EcoUtils
+version: 1.0
+main: me.robpizza.ecoutils.Main
+depend: [Vault]
+loadbefore: [Vault]
+
+commands:
+  balance:
+    usage: /<command>
+    aliases: [bal]
+  eco:
+    usage: /<command>
+  pay:
+    usage: /<command>
+  test-economy:
+    usage: /<command>
