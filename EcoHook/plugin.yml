@@ -1,0 +1,5 @@
+name: EcoUtils_VaultHook
+version: 1.0
+main: me.robpizza.econutilsvaulthook.Main
+depend: [Vault, EcoUtils]
+loadbefore: [Vault, EcoUtils]
